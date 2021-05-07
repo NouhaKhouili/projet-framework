@@ -1,0 +1,12 @@
+POST http://localhost:5000/app/singup
+
+Content-Type: application/json
+
+{
+	
+	"fulName":"Nouha",
+	"userName":"Khouili",
+	"email":"khouili.nouha@gmail.com",
+	"password":"nouha123"
+}
+
